@@ -9,7 +9,7 @@
 
 body{
     font-size: 100%;
-    background: linear-gradient(68.15deg, #26232f 16.62%, #42aecf 85.61%);
+    background: linear-gradient(90.15deg, #19181b 18.00%, #707a7e 82.00%);
 
 }
 
@@ -127,7 +127,8 @@ button{
 
 
 .conteudo-principal-imagem{
-    height: 430 px; 
+    height: 300 px; 
+    width: 300px;
 }
 
 .conteudo-secundario{
